@@ -1,0 +1,11 @@
+/* This file can be used for custom CSS that is specific to the App component.
+  For this project, we will primarily use Tailwind CSS for styling, 
+  so this file might remain empty or be used for very specific overrides 
+  or complex animations that are easier to write in plain CSS.
+*/
+
+/* Example of a custom class you could add here */
+.app-container {
+  /* We can add specific styles here if needed */
+  text-align: center;
+}
